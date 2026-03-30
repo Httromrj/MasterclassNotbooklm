@@ -115,7 +115,7 @@ Responda apenas com base no texto. Se não estiver explícito, diga "Não consta
 
 ## 6. NotebookLM vs ChatGPT
 
-| Critério        | NotebookLM        | ChatGPT            |
+| Critério        | NotebookLM        | ChatBot            |
 | --------------- | ----------------- | ------------------ |
 | Base            | Fontes fornecidas | Conhecimento geral |
 | Alucinação      | Baixo             | Médio              |
